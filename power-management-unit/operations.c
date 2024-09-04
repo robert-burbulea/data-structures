@@ -2,7 +2,6 @@
 #include "structs.h"
 #include "operations.h"
 
-// ------- DO NOT MODIFY ------- //
 
 static void tire_pressure_status(void *data)
 {
